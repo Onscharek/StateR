@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+.p-2{background-color: rgba(137, 43, 226, 0.61);width: 50%;margin-left: 25%; margin-top: 1.5%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9);border-radius: 30%;color: #fdfdfd;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
